@@ -1,16 +1,22 @@
-### Hi there 👋
+# Denis Dobra
+# Full Stack Developer: React and Java Spring Boot
+Welcome to my GitHub profile! I'm Denis, a Full Stack Developer with expertise in React and Java Spring Boot. With a solid background in Computer Science & Business, I actively apply my skills and knowledge to tackle full-stack development challenges.
 
-<!--
-**denisdobra10/denisdobra10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Technologies I Work With:
+React
+Java Spring Boot
+Tailwind CSS
+Databases (SQL and NoSQL)
+Flutter/Dart
+Unity (2D, 3D, WebGL)
+Android Studio
+.NET
+Wordpress
+CSS libraries
 
-Here are some ideas to get you started:
+# About Me:
+Alongside my academic journey, I broadened my horizons through a Work and Travel program, immersing myself in the diverse landscape of the USA. This experience not only enhanced my English fluency but also nurtured my adaptability and cross-cultural communication skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Combining my international exposure with rigorous coursework and hands-on projects, I've cultivated strong analytical and problem-solving abilities, making me well-equipped to excel in the dynamic realm of IT.
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
