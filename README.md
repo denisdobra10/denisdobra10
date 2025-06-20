@@ -1,22 +1,16 @@
-# Denis Dobra
-# Full Stack Developer: React and Java Spring Boot
-Welcome to my GitHub profile! I'm Denis, a Full Stack Developer with expertise in React and Java Spring Boot. With a solid background in Computer Science & Business, I actively apply my skills and knowledge to tackle full-stack development challenges.
+# 🚀 Full-Stack Developer | Frontend Engineer | Founder @ Skyline Bulls Technology & Dodera Software (US & Romania)
 
-# Technologies I Work With:
-React
-Java Spring Boot
-Tailwind CSS
-Databases (SQL and NoSQL)
-Flutter/Dart
-Unity (2D, 3D, WebGL)
-Android Studio
-.NET
-Wordpress
-CSS libraries
+Hey, I’m Denis — a full-stack engineer and tech entrepreneur bridging software and drones across the U.S. and Europe.
 
-# About Me:
-Alongside my academic journey, I broadened my horizons through a Work and Travel program, immersing myself in the diverse landscape of the USA. This experience not only enhanced my English fluency but also nurtured my adaptability and cross-cultural communication skills.
+I build cross-border projects that blend frontend engineering, AI, automation and promotes scalability and performance. I also perform certified drone services. My work spans enterprise SaaS, marketplaces, document platforms, dashboards and inspection systems — always with a focus on performance and modern UX.
 
-Combining my international exposure with rigorous coursework and hands-on projects, I've cultivated strong analytical and problem-solving abilities, making me well-equipped to excel in the dynamic realm of IT.
+# What I do:
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
+🧠 Build advanced UIs with Vue 3/React, Nuxt/Next, Tailwind, Pinia, FormKit, component-driven architecture and other popular technology.
+🔁 Automate workflows using Make, OpenAI, and custom backend logic (Laravel, REST APIs)
+✈️ Conduct FAA Part 107-certified drone missions: inspections, mapping, 3D capture, light shows, and more
+🧩 Design scalable platforms for real estate, construction, and data-intensive operations
+🇺🇸 🇷🇴 Operate in both Romania and the U.S. — building tech that moves fast and scales globally
+Currently focused on launching smart tools for service marketplaces, document systems, and AI-powered SaaS products. Passionate about building products that are modern, elegant, and extremely useful.
+
+# Let’s connect — I'm always up for shipping great ideas.
